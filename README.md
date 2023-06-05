@@ -2,6 +2,9 @@
 
 js-game is a web-based game built using HTML, CSS, and JavaScript. It provides an interactive gaming experience with simple mechanics and engaging gameplay.
 
+## Play Game
+Link to website - https://jayisonline.github.io/js-game/
+
 ## Features
 
 - Simple and Addictive Gameplay: The game offers an easy-to-understand gameplay concept that is quick to learn and difficult to master. Players can enjoy hours of fun and challenge themselves to beat their high scores.
